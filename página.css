@@ -1,0 +1,367 @@
+.e1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:100%;
+	height:2456px;
+	position:absolute;
+}
+.e3_18 { 
+	width:1400px;
+	height:490px;
+	position:absolute;
+	left:-35px;
+	top:151px;
+	background-image: url("imagem/centro.jpg");
+    background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_10 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(14.000000115484, 14.000000115484, 16.000000946223736, 1);
+	width:543px;
+	height:508px;
+	position:absolute;
+	left:58%;
+	top:171px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e29_62 { 
+	width:400px;
+	height:300px;
+	position:absolute;
+	left:87px;
+	top:855px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url("imagem/audi.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e29_63 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width: 98%;
+	height:54px;
+	position:absolute;
+	left:1%;
+	top:667px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e29_64 { 
+	width:400px;
+	height:300px;
+	position:absolute;
+	left:752px;
+	top:855px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url("imagem/mercedes.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e29_66 { 
+	width:400px;
+	height:300px;
+	position:absolute;
+	left:87px;
+	top:1436px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url("imagem/bmw2.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e29_67 { 
+	width:400px;
+	height:300px;
+	position:absolute;
+	left:752px;
+	top:1449px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url("imagem/land\ vermelha.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_74 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:100%;
+	height:151px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_4 { 
+	width:333px;
+	height: 11%;
+	position:absolute;
+	left:463px;
+	top: -60px;
+	background-image:url("imagem/logotipo-removebg.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_15 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:232px;
+	height:49px;
+	position:absolute;
+	left:75%;
+	top:43px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e3_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:108px;
+	height:44px;
+	position:absolute;
+	left:62px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e2_14 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:232px;
+	height:49px;
+	position:absolute;
+	left:5%;
+	top:43px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e3_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:161px;
+	height:44px;
+	position:absolute;
+	left:36px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_82 { 
+	color:rgba(255, 255, 255, 1);
+	width:431px;
+	height:72px;
+	position:absolute;
+	left:99px;
+	top:783px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e35_92 { 
+	width:277px;
+	height:88px;
+	position:absolute;
+	left:864px;
+	top:2364px;
+	background-image:url(images/rectangle_11.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_96 { 
+	color:rgba(255, 255, 255, 1);
+	width:205px;
+	height:176px;
+	position:absolute;
+	left:728px;
+	top:2196px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_72 { 
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:82%;
+	top:90%;
+	background-image:url("imagem/Logos-juntas-scaled.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_94 { 
+	color:rgba(255, 255, 255, 1);
+	width:252px;
+	height:264px;
+	position:absolute;
+	left:0px;
+	top:2187px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_95 { 
+	color:rgba(255, 255, 255, 1);
+	width:264px;
+	height:264px;
+	position:absolute;
+	left:376px;
+	top:2188px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_99 { 
+	color:rgba(255, 255, 255, 1);
+	width:500px;
+	height:48px;
+	position:absolute;
+	left:752px;
+	top:1393px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e35_100 { 
+	color:rgba(255, 255, 255, 1);
+	width:486px;
+	height:48px;
+	position:absolute;
+	left:87px;
+	top:1388px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e35_101 { 
+	color:rgba(255, 255, 255, 1);
+	width:557px;
+	height:48px;
+	position:absolute;
+	left:750px;
+	top:799px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e35_102 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:300px;
+	height:50px;
+	position:absolute;
+	left:136px;
+	top:1176px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e35_106 { 
+	color:rgba(0, 0, 0, 1);
+	width:178px;
+	height:39px;
+	position:absolute;
+	left:51px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e35_103 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:300px;
+	height:50px;
+	position:absolute;
+	left:128px;
+	top:1771px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e35_109 { 
+	color:rgba(0, 0, 0, 1);
+	width:177px;
+	height:39px;
+	position:absolute;
+	left:51px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e35_104 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:300px;
+	height:50px;
+	position:absolute;
+	left:816px;
+	top:1178px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e35_107 { 
+	color:rgba(0, 0, 0, 1);
+	width:178px;
+	height:39px;
+	position:absolute;
+	left:61px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e35_105 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:300px;
+	height:50px;
+	position:absolute;
+	left:802px;
+	top:1771px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e35_110 { 
+	color:rgba(0, 0, 0, 1);
+	width:176px;
+	height:39px;
+	position:absolute;
+	left:62px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}

@@ -1,0 +1,307 @@
+.e3_56{ 
+	overflow:hidden;
+}
+body {
+    background-color: black;
+    height: 100%;
+}
+.e3_28 { 
+	width:404px;
+	height:300px;
+	position:absolute;
+	left:138px;
+	top:227px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background-image:url("imagem/up.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_26 { 
+	width:400px;
+	height:299px;
+	position:absolute;
+	left:745px;
+	top:1428px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background-image:url("imagem/siena.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_25 { 
+	width:400px;
+	height:301px;
+	position:absolute;
+	left:141px;
+	top:1869px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background-image:url("imagem/sandero.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_24 { 
+	width:400px;
+	height:300px;
+	position:absolute;
+	left:724px;
+	top:624px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background-image:url("imagem/renaulst\ clio.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_23 { 
+	width:400px;
+	height:303px;
+	position:absolute;
+	left:129px;
+	top:1020px;
+	border-top-left-radius:37px;
+	border-top-right-radius:37px;
+	border-bottom-left-radius:37px;
+	border-bottom-right-radius:37px;
+	background-image:url("imagem/ford_ka_1.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_29 { 
+	color:rgba(255, 255, 255, 1);
+	width:533px;
+	height:645px;
+	position:absolute;
+	left:593px;
+	top:250px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_39 { 
+	color:rgba(255, 255, 255, 1);
+	width:548px;
+	height:176px;
+	position:absolute;
+	left:152px;
+	top:651px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_40 { 
+	color:rgba(255, 255, 255, 1);
+	width:511px;
+	height:176px;
+	position:absolute;
+	left:593px;
+	top:1049px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_41 { 
+	color:rgba(255, 255, 255, 1);
+	width:618px;
+	height:176px;
+	position:absolute;
+	left:152px;
+	top:1480px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_43 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:230px;
+	height:50px;
+	position:absolute;
+	left:745px;
+	top:464px;
+	border-top-left-radius:200px;
+	border-top-right-radius:200px;
+	border-bottom-left-radius:200px;
+	border-bottom-right-radius:200px;
+}
+.e3_48 { 
+	color:rgba(0, 0, 0, 1);
+	width:142px;
+	height:44px;
+	position:absolute;
+	left:44px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_46 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:230px;
+	height:50px;
+	position:absolute;
+	left:311px;
+	top:870px;
+	border-top-left-radius:200px;
+	border-top-right-radius:200px;
+	border-bottom-left-radius:200px;
+	border-bottom-right-radius:200px;
+}
+.e3_51 { 
+	color:rgba(0, 0, 0, 1);
+	width:142px;
+	height:44px;
+	position:absolute;
+	left:44px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_47 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:230px;
+	height:50px;
+	position:absolute;
+	left:311px;
+	top:1692px;
+	border-top-left-radius:200px;
+	border-top-right-radius:200px;
+	border-bottom-left-radius:200px;
+	border-bottom-right-radius:200px;
+}
+.e3_52 { 
+	color:rgba(0, 0, 0, 1);
+	width:142px;
+	height:44px;
+	position:absolute;
+	left:44px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_44 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:230px;
+	height:50px;
+	position:absolute;
+	left:202px;
+	top:2563px;
+	border-top-left-radius:200px;
+	border-top-right-radius:200px;
+	border-bottom-left-radius:200px;
+	border-bottom-right-radius:200px;
+}
+.e3_49 { 
+	color:rgba(0, 0, 0, 1);
+	width:142px;
+	height:44px;
+	position:absolute;
+	left:44px;
+	top:6px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e3_53 { 
+	width:400px;
+	height:302px;
+	position:absolute;
+	left:768px;
+	top:2315px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background-image:url("imagem/celta.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_55 { 
+	background-color:rgba(147.00000643730164, 225.7200175523758, 243.00000071525574, 1);
+	width:230px;
+	height:50px;
+	position:absolute;
+	left:779px;
+	top:2134px;
+	border-top-left-radius:200px;
+	border-top-right-radius:200px;
+	border-bottom-left-radius:200px;
+	border-bottom-right-radius:200px;
+}
+.e3_56 { 
+	color:rgba(0, 0, 0, 1);
+	width:142px;
+	height:44px;
+	position:absolute;
+	left:44px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_111 { 
+	color:rgba(255, 255, 255, 1);
+	width:658px;
+	height:176px;
+	position:absolute;
+	left:67px;
+	top:2374px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_114 { 
+	color:rgba(255, 255, 255, 1);
+	width:615px;
+	height:176px;
+	position:absolute;
+	left:593px;
+	top:1910px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e35_115 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1150px;
+	height:88px;
+	position:absolute;
+	left:58px;
+	top:49px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e35_118 { 
+	color:rgba(0, 0, 0, 1);
+	width:986px;
+	height:58px;
+	position:absolute;
+	left:152px;
+	top:64px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
